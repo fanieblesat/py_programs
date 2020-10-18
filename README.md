@@ -1,2 +1,2 @@
 # my_project
-This a complitaion of small programs using python
+This a compilation of small programs using python.
